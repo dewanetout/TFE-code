@@ -1,0 +1,1 @@
+The implemented code can be found in socket.io-p2p-master/examples/Pictionary
